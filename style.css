@@ -12,5 +12,7 @@ font-style: italic}
     margin-left: auto;
     margin-right: auto;
 }
-li{
-    font-style: bold}
+
+span{
+    background-color: aqua;
+}
